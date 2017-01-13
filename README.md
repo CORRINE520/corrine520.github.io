@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<h3><p class = "red"> Welcome to my Website </p></h3>
+<h3><p class = "red"> Hello my friends </p></h3>
 <h4> Thank you for your visiting </h4></h4>
 You can use the [editor on GitHub](https://github.com/CORRINE520/jing-peng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
