@@ -11,5 +11,5 @@
 <li> BS in General Statistics </li>
 </ol>
 <li> Phone Number: 5309794000</li>
-<li> <a herf="https://www.linkedin.com/in/jing-peng-082a89121"> linkedin Webpage</li> 
+<li> <a herf="https://www.linkedin.com/in/jing-peng-082a89121"> linkedin Webpage</a></li> 
 
