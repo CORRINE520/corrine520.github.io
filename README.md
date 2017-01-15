@@ -10,5 +10,4 @@
 <li> BS in Compuational Mathematics </li>
 <li> BS in General Statistics </li>
 </ol>
-<li> <a href="https://www.linkedin.com/in/jing-peng-082a89121"> linkedin Webpage</a></li> 
-
+<li> <a herf="https://www.linkedin.com/in/jing-peng-082a89121"> linkedin Webpage</a></li> 
