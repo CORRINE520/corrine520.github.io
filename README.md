@@ -1,19 +1,21 @@
 ## Welcome to Jing Peng's GitHub Pages
 
 <h2><p class = "blue"> Personal Information </p></h2>
-<li> Name: Jing Peng</li>
-<li> School: University of California, Davis</li>
-<li>Expect graduate: 09/2014-- 12/2017 </li>
-<li> Major:
+<li> Education </li>
+<p> I am Jing Peng and I am currently a undergraduate student at University of California, Davis
+My majors are:
 <ol>
 <li> BS in Compuational Mathematics </li>
 <li> BS in General Statistics </li>
 </ol>
-</li>
+</p>
+<li> Contact Information </li>
 <li> Email: jcpeng@ucdavis.edu </li>
-<li> <a herf="https://www.linkedin.com/in/jing-peng-082a89121"> linkedin Webpage</a></li> 
+<li> 
+  <a herf="https://www.linkedin.com/in/jing-peng-082a89121"> linkedin Webpage</a>
+</li> 
 <li> Wechat: jingpengcorrine </li>
-<li> Interests </li>
+
 <p>
 I am currently interested in mathematical and statistical models for machine learning, data mining, signal processing and other applied fields, with focus on theoretical analysis.
 </p>
