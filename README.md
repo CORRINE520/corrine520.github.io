@@ -68,7 +68,8 @@ div.cities {
 </p>
 <p>
  Using data visualization method and linear regression model, we get the following conclusion:
- 
+</p>
+ <p>
 1. Nowadays, people prefer action and adventure movies instead of comedy and drama movies, which is the opposite of people’s preference in 1990.
 
 2. Even though it’s true that action movies and adventure movies usually have higher budget, based on the linear model, we cannot simply use the increasing budget to explain the increasing popularity of these two genres.
