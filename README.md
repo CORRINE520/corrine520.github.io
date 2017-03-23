@@ -60,19 +60,20 @@ div.cities {
 </ol>
 </div>
 <div class = "cities">
-<h2><p class = "blue"> STA 141B  Statistics Data Technologies Final Project </p></h2>
+<h2><p class = "blue"> Final Project of STA 141B  Statistics Data Technologies  </p></h2>
 <li> <a href="http://htmlpreview.github.io/?https://github.com/Heng19/UC-Davis-Heng-Xu/blob/master/final.html"> Topic: The change of people’s preference on movie genres </a>.</li>
-<p> My groupmates is <a href="https://heng19.github.io/UC-Davis-Heng-Xu/"> Heng Xu</a> and <a href="https://github.com/Shiyuan666/Shiyuan666.github.io/"> Shiyuan Li</a>. We are interested in the change of people’s preference on movie genres from 1990 to 2016. Because when I was a child, most movies showed were Comedies, but now most of movies are Action movies and Sci-Fiction movies. We are curious about: (1)people's preference of movie genres changed through 1990 to 2016? (2)What factor of a movie cause the such phenomenon? (3)What makes action movies and adventure movie different and why they can attract the audience in 
- today but not in 1990?
+<p> My groupmates is <a href="https://heng19.github.io/UC-Davis-Heng-Xu/"> Heng Xu</a> and <a href="https://github.com/Shiyuan666/Shiyuan666.github.io/"> Shiyuan Li</a>. We are interested in the change of people’s preference on movie genres from 1990 to 2016. Because when I was a child, most movies showed were Comedies, but now most of movies are Action movies and Sci-Fiction movies.
+</p>
+<p>We are curious about: (1)people's preference of movie genres changed through 1990 to 2016? (2)What factor of a movie cause the such phenomenon? (3)What makes action movies and adventure movie different and why they can attract the audience in today but not in 1990?
+</p>
+<p>
  Using data visualization method and linear regression model, we get the following conclusion:
- 1. Nowadays, people prefer action and adventure movies instead of comedy and drama movies, which is the opposite of people’s preference in 1990.
+ 
+1. Nowadays, people prefer action and adventure movies instead of comedy and drama movies, which is the opposite of people’s preference in 1990.
 
 2. Even though it’s true that action movies and adventure movies usually have higher budget, based on the linear model, we cannot simply use the increasing budget to explain the increasing popularity of these two genres.
 
-3. Notice that action movies and adventure movies (especially for comic books movie) have smaller variance in IMDB score among different age groups than comedy and drama movies have. This indicates that one of the reason about the increasing popularity of action and adventure movies is that they are not only popular among young children (18), but also attracts people in elder age.
-
-4. Our explaining for the change of people’s preference for movie genres: The change of the primary consumers of movie results in the change of the overall preferences of the movies genres. (Action, Adventure rise, Drama, Comedy fall). And the culture
-</p>
+3. Notice that action movies and adventure movies (especially for comic books movie) have smaller variance in IMDB score among different age groups than comedy and drama movies have. This indicates that one of the reason about the increasing popularity of action and adventure movies is that they are not only popular among young children (18), but also attracts people in elder age.</p>
 
 </div>
 
