@@ -18,14 +18,14 @@ div.cities {
       <p>
         <li> Education </li>
          <p> 
-          "I am Jing Peng and I am currently a undergraduate student at University of California, Davis
-            My majors are:"
+          I am Jing Peng and I am currently a undergraduate student at University of California, Davis
+            My majors are:
             <ol>
             <li> BS in Compuational Mathematics </li>
             <li> BS in General Statistics </li>
             </ol>
-          "I am currently interested in mathematical and statistical models for machine learning, data mining, 
-          signal processing and other applied fields, with focus on theoretical analysis."
+          I am currently interested in mathematical and statistical models for machine learning, data mining, 
+          signal processing and other applied fields, with focus on theoretical analysis.
   
         <li> Contact Information </li>
         <p> 
@@ -41,7 +41,7 @@ div.cities {
       <ol>
       <li>
         <p>
-            "I am a statistical analyst of an Apple App. Our App is called NHH sticker,I used natural language 
+            I am a statistical analyst of an Apple App. Our App is called NHH sticker,I used natural language 
             processing to analyze millions of consumer reviews of Apple Sticker App and gave suggestion to update 
             our own sticker App.I also analyzed sale trend of our stickers App and helped boost 2 times of previous 
             sale volume. This is our <a href="https://itunes.apple.com/cn/app/nhh-stickers/id1161646735?l=en&mt=8"> APP Apple Store page</a>.  The following is our <a href="https://github.com/TintPoint/StickerDatabase"> Apple Stickers App github page</a>.
@@ -50,9 +50,9 @@ div.cities {
       </li>
       <li>
         <p>
-            "I am a research assistant is department of Statistics,UC Davis. My mentor is 
+            I am a research assistant is department of Statistics,UC Davis. My mentor is 
             <a href="http://www.stat.ucdavis.edu/~xdgli/"> Xiaodong Li</a>.We try to create a WIKI page for 
-            classification methods: Support Vector Machine, Kernel Density Estimation and Kernel Nearest Neighbor."
+            classification methods: Support Vector Machine, Kernel Density Estimation and Kernel Nearest Neighbor.
         </p>
       </li>
 
