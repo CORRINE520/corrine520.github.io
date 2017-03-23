@@ -69,12 +69,13 @@ div.cities {
 <p>
  Using data visualization method and linear regression model, we get the following conclusion:
 </p>
- <p>
-1. Nowadays, people prefer action and adventure movies instead of comedy and drama movies, which is the opposite of people’s preference in 1990.
-
-2. Even though it’s true that action movies and adventure movies usually have higher budget, based on the linear model, we cannot simply use the increasing budget to explain the increasing popularity of these two genres.
-
-3. Notice that action movies and adventure movies (especially for comic books movie) have smaller variance in IMDB score among different age groups than comedy and drama movies have. This indicates that one of the reason about the increasing popularity of action and adventure movies is that they are not only popular among young children (18), but also attracts people in elder age.</p>
+<p>
+ <ol>
+ <li>Nowadays, people prefer action and adventure movies instead of comedy and drama movies, which is the opposite of people’s preference in 1990.</li>
+ <li>Even though it’s true that action movies and adventure movies usually have higher budget, based on the linear model, we cannot simply use the increasing budget to explain the increasing popularity of these two genres.</li>
+<li>Notice that action movies and adventure movies (especially for comic books movie) have smaller variance in IMDB score among different age groups than comedy and drama movies have. This indicates that one of the reason about the increasing popularity of action and adventure movies is that they are not only popular among young children (18), but also attracts people in elder age.</li>
+</ol>
+</p>
 
 </div>
 
