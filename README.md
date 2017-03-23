@@ -12,7 +12,7 @@ My majors are:
 <li> Contact Information </li>
 <li> Email: jcpeng@ucdavis.edu </li>
 <li> 
-  [linkedin_Webpage](https://www.linkedin.com/in/jing-peng-082a89121)
+  [link](https://www.linkedin.com/in/jing-peng-082a89121)
   <a herf="https://www.linkedin.com/in/jing-peng-082a89121"> linkedin Webpage</a>
 </li> 
 <li> Wechat: jingpengcorrine </li>
