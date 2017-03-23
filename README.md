@@ -1,4 +1,14 @@
 ## Welcome to Jing Peng's GitHub Pages
+<head>
+<style>
+div.cities {
+    background-color: black;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+</style>
+</head>
 
 <body>
   <section class="main-content">
@@ -24,12 +34,9 @@
           <li><a href="https://www.linkedin.com/in/jing-peng-082a89121"> linkedin: Jing Peng</a></li>
           <li> Wechat: jingpengcorrine </li>
           </ol>
-      </div>
     <div class = "col span_2_right">
       <img src = "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAg_AAAAJDg3NjlkZDQ5LWM1MzYtNDQ4NS05NjhmLTViM2VkYTY2ZDM1NA.jpg">
     </div>
-  </div>
-</section>
   <h2><p class = "blue"> My Internship </p></h2>
       <ol>
       <li>
