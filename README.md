@@ -9,7 +9,6 @@ div.cities {
 }
 </style>
 </head>
-
 <body>
   <section class="main-content">
     <h2><p style = "color:green"> Personal Information </p></h2>
