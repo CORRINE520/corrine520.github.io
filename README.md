@@ -14,7 +14,7 @@ div.cities {
   <section class="main-content">
     <h2><p class = "blue"> Personal Information </p></h2>
     <div class ="section group">
-      <div class = "col span_2_left">
+      <div class = "cities">
       <p>
         <li> Education </li>
          <p> 
@@ -37,6 +37,7 @@ div.cities {
     <div class = "col span_2_right">
       <img src = "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAg_AAAAJDg3NjlkZDQ5LWM1MzYtNDQ4NS05NjhmLTViM2VkYTY2ZDM1NA.jpg">
     </div>
+  <div class = "cities">
   <h2><p class = "blue"> My Internship </p></h2>
       <ol>
       <li>
@@ -57,6 +58,8 @@ div.cities {
       </li>
 
 </ol>
+</div>
+<div class = "cities">
 <h2><p class = "blue"> My Project </p></h2>
 <ol>
 <li> STA 141B  Statistics Data Technologies Final Project</li>
@@ -64,4 +67,5 @@ div.cities {
 </p>
 
 </ol>
+</div>
 
