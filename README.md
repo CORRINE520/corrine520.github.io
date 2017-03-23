@@ -12,7 +12,7 @@ div.cities {
 
 <body>
   <section class="main-content">
-    <h2><p class = "blue"> Personal Information </p></h2>
+    <h2><p style = "color:blue"> Personal Information </p></h2>
     <div class ="section group">
       <div class = "cities">
       <p>
@@ -38,7 +38,7 @@ div.cities {
       <img src = "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAg_AAAAJDg3NjlkZDQ5LWM1MzYtNDQ4NS05NjhmLTViM2VkYTY2ZDM1NA.jpg">
     </div>
   <div class = "cities">
-  <h2><p class = "blue"> My Internship </p></h2>
+  <h2><p style = "color:blue;"> My Internship </p></h2>
       <ol>
       <li>
         <p>
@@ -60,7 +60,7 @@ div.cities {
 </ol>
 </div>
 <div class = "cities">
-<h2><p class = "blue"> Final Project of STA 141B  Statistics Data Technologies  </p></h2>
+<h2><p style = "color:blue;"> Final Project of STA 141B  Statistics Data Technologies  </p></h2>
 <li> <a href="http://htmlpreview.github.io/?https://github.com/Heng19/UC-Davis-Heng-Xu/blob/master/final.html"> Topic: The change of people’s preference on movie genres </a>.</li>
 <p> My groupmates is <a href="https://heng19.github.io/UC-Davis-Heng-Xu/"> Heng Xu</a> and <a href="https://github.com/Shiyuan666/Shiyuan666.github.io/"> Shiyuan Li</a>. We are interested in the change of people’s preference on movie genres from 1990 to 2016. Because when I was a child, most movies showed were Comedies, but now most of movies are Action movies and Sci-Fiction movies.
 </p>
