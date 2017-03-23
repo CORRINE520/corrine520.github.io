@@ -2,8 +2,8 @@
 <head>
 <style>
 div.cities {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     margin: 20px 0 20px 0;
     padding: 20px;
 }
