@@ -65,6 +65,3 @@ div.cities {
 
 </ol>
 
-<h2>Spectacular Mountain</h2>
-<img src="https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAg_AAAAJDg3NjlkZDQ5LWM1MzYtNDQ4NS05NjhmLTViM2VkYTY2ZDM1NA.jpg" alt="Mountain View" style="width:304px;height:228px;">
-
