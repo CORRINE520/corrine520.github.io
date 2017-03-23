@@ -62,8 +62,8 @@ div.cities {
 <div class = "cities">
 <h2><p class = "blue"> My Project </p></h2>
 <ol>
-<li> STA 141B  Statistics Data Technologies Final Project</li>
-<p> My groupmates is <a href="https://heng19.github.io/UC-Davis-Heng-Xu/"> Heng Xu</a> and <a href="https://github.com/Shiyuan666/Shiyuan666.github.io/"> Shiyuan Li</a>. We are interested in the change of people’s preference on movie genres from 1990 to 2016. Because when I was a child, most movies showed were Comedies, but now most of movies are Action movies and Sci-Fiction movies. We are curious about the reasons of the trend of movies genre.This is our project webpage: <a href="http://htmlpreview.github.io/?https://github.com/Heng19/UC-Davis-Heng-Xu/blob/master/final.html"> The change of people’s preference on movie genres </a>.
+<li> <a href="http://htmlpreview.github.io/?https://github.com/Heng19/UC-Davis-Heng-Xu/blob/master/final.html"> STA 141B  Statistics Data Technologies Final Project </a>.</li>
+<p> My groupmates is <a href="https://heng19.github.io/UC-Davis-Heng-Xu/"> Heng Xu</a> and <a href="https://github.com/Shiyuan666/Shiyuan666.github.io/"> Shiyuan Li</a>. We are interested in the change of people’s preference on movie genres from 1990 to 2016. Because when I was a child, most movies showed were Comedies, but now most of movies are Action movies and Sci-Fiction movies. We are curious about the reasons of the trend of movies genre.This is our project github webpage: <a href="https://github.com/Heng19/UC-Davis-Heng-Xu"> The change of people’s preference on movie genres </a>.
 </p>
 
 </ol>
